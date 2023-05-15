@@ -1,0 +1,8 @@
+signal,hue,saturation,is_traffic_light
+yellow,60,144,yes
+green,60,144,yes
+green,60,144,yes
+yellow,60,144,yes
+red,60,144,yes
+blue,200,250,no
+violet,250,125,no
